@@ -1,4 +1,4 @@
-### <b> Hi, welcome! </b> 👋
+### <c> Hi, welcome! </c> 👋
 
 <!--
 **atcribb/atcribb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
