@@ -1,7 +1,8 @@
 ### <p align="center"> Hi, welcome! 👋😄 </p>
 
-![Static Badge](https://img.shields.io/badge/yall%20means%20all-8A2BE2) ![Static Badge](https://img.shields.io/badge/fossils%20for%20the%20future-a7c957) ![Static Badge](https://img.shields.io/badge/Early%20Career%20Researcher-f07167) ![Static Badge](https://img.shields.io/badge/she-her-d8e2dc)
-
+<p align="center">
+![Static Badge](https://img.shields.io/badge/yall%20means%20all-8A2BE2) ![Static Badge](https://img.shields.io/badge/fossils%20for%20the%20future-a7c957) ![Static Badge](https://img.shields.io/badge/Early%20Career%20Researcher-f07167) ![Static Badge](https://img.shields.io/badge/she-her-d8e2dc) 
+</p>
 
 
 
