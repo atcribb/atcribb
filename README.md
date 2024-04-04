@@ -1,5 +1,8 @@
 ### <p align="center"> Hi, welcome! 👋😄 </p>
 
+![Static Badge](https://img.shields.io/badge/yall%20means%20all-8A2BE2)
+
+
 <!--
 **atcribb/atcribb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
