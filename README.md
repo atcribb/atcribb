@@ -10,6 +10,7 @@ Hi there, I'm Alison, a quantitative palaeoecologist / geobiologist!
 * :dizzy: Passionate about conservation palaeobiology 
 * 💡 Currently earning new skills in spatial analyses, machine learning, and biogeochemical modeling
 * 💭 Dreaming of making fun educational palaeoecology video games
+* 🎓 Formerly University of Southern California / Vanderbilt University
 * 👩‍🌾 Probably playing Stardrew Valley
 * 👭 Let's collaborate!
 
