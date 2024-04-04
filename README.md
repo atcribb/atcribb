@@ -1,6 +1,7 @@
 ### <p align="center"> Hi, welcome! 👋😄 </p>
 
-![Static Badge](https://img.shields.io/badge/yall%20means%20all-8A2BE2)
+![Static Badge](https://img.shields.io/badge/yall%20means%20all-8A2BE2) ![Static Badge](https://img.shields.io/badge/fossils%20for%20the%20future-a7c957)
+
 
 
 <!--
