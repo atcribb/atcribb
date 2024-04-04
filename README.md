@@ -1,7 +1,10 @@
 ### <p align="center"> Hi, welcome! 👋😄 </p>
 
 
+I am an ```1851 Research Fellow``` at the University of Southampton's School of Ocean and Earth Science. I am currently working on how ancient marine ecosystem engineers like reefs and bioturbators have impacted biodiversity and community resilience throughout the Phanerozoic. 
+
 ![Static Badge](https://img.shields.io/badge/yall%20means%20all-8A2BE2) ![Static Badge](https://img.shields.io/badge/fossils%20for%20the%20future-a7c957) ![Static Badge](https://img.shields.io/badge/Early%20Career%20Researcher-f07167) ![Static Badge](https://img.shields.io/badge/she-her-d8e2dc) 
+
 
 
 
