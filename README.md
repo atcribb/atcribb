@@ -4,7 +4,7 @@
     <a href="mailto:A.T.Cribb@soton.ac.uk">email me!</a> | <a href="https://twitter.com/alison_cribb"> social </a> | <a href="https://scholar.google.com/citations?user=xxeLtmEAAAAJ&hl=en"> publications </a> | <a href="https://lifeandplanet.com"> Life and Planet 2024 </a>
 </p>
 
-Hi there, I'm Alison, a quantitative palaeoecologist / geobiologist!
+Hi there, I'm Alison, a quantitative palaeoecologist!
 * :woman_technologist: I am currently an ```1851 Research Fellow``` at the University of Southampton School of Ocean and Earth Sciences
 * 🌍 I am researching the impacts of ecosystem engineers on ecological and evolutionary dynamics during the Phanerozoic
 * :dizzy: Passionate about conservation palaeobiology 
