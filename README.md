@@ -5,7 +5,7 @@
 </p>
 
 Hi there, I'm Alison, a quantitative palaeoecologist!
-* :woman_technologist: I am currently an ```1851 Research Fellow``` at the University of Southampton School of Ocean and Earth Sciences
+* :woman_technologist: I am currently an ```1851 Research Fellow``` at the University of Southampton's School of Ocean and Earth Science
 * 🌍 I am researching the impacts of ecosystem engineers on ecological and evolutionary dynamics during the Phanerozoic
 * :dizzy: Passionate about conservation palaeobiology 
 * 💡 Currently learning new skills in spatial analyses, machine learning, and biogeochemical modeling
