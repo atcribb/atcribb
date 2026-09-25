@@ -1,7 +1,7 @@
 ### <p align="center"> Hi, welcome! 👋😄 </p>
 
 <p align="center"> 
-    <a href="mailto:A.T.Cribb@soton.ac.uk">email me!</a> | <a href="https://atcribb.github.io" target="_blank">personal website</a> | <a href="https://www.linkedin.com/in/alison-cribb-333383363" target="_blank"> LinkedIn </a> | <a href="https://scholar.google.com/citations?user=xxeLtmEAAAAJ&hl=en" target="_blank"> publications </a> | <a href="https://lifeandplanet.com" target="_blank"> Life and Planet 2027</a>
+    <a href="mailto:alison.cribb@earth.ox.ac.uk">email me!</a> | <a href="https://atcribb.github.io" target="_blank">personal website</a> | <a href="https://www.linkedin.com/in/alison-cribb-333383363" target="_blank"> LinkedIn </a> | <a href="https://scholar.google.com/citations?user=xxeLtmEAAAAJ&hl=en" target="_blank"> publications </a> | <a href="https://lifeandplanet.com" target="_blank"> Life and Planet 2027</a>
 </p>
 
 Hi there, I'm Alison, a quantitative palaeoecologist!
