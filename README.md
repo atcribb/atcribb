@@ -5,7 +5,7 @@
 </p>
 
 Hi there, I'm Alison, a quantitative palaeoecologist!
-* :woman_technologist: I am currently an ```Schmidt AI in Science Fellow``` in the Department of Earth Sciences at the University of Oxford
+* :woman_technologist: I am currently a ```Schmidt AI in Science Fellow``` in the Department of Earth Sciences at the University of Oxford
 * 🌍 I am researching ecological and evolutionary survival strategies during mass extinctions and how AI can help us identify them
 * :dizzy: Passionate about conservation palaeobiology 
 * 💡 Currently learning new skills in reinforcement learning and AI
