@@ -1,14 +1,14 @@
 ### <p align="center"> Hi, welcome! 👋😄 </p>
 
 <p align="center"> 
-    <a href="mailto:A.T.Cribb@soton.ac.uk">email me!</a> | <a href="https://atcribb.github.io" target="_blank">personal website</a> | <a href="https://bsky.app/profile/alisoncribb.bsky.social" target="_blank"> social </a> | <a href="https://scholar.google.com/citations?user=xxeLtmEAAAAJ&hl=en" target="_blank"> publications </a> | <a href="https://lifeandplanet.com" target="_blank"> Life and Planet 2026</a>
+    <a href="mailto:A.T.Cribb@soton.ac.uk">email me!</a> | <a href="https://atcribb.github.io" target="_blank">personal website</a> | <a href="www.linkedin.com/in/alison-cribb-333383363" target="_blank"> LinkedIn </a> | <a href="https://scholar.google.com/citations?user=xxeLtmEAAAAJ&hl=en" target="_blank"> publications </a> | <a href="https://lifeandplanet.com" target="_blank"> Life and Planet 2027</a>
 </p>
 
 Hi there, I'm Alison, a quantitative palaeoecologist!
-* :woman_technologist: I am currently an ```1851 Research Fellow``` at the University of Southampton's School of Ocean and Earth Science
-* 🌍 I am researching the impacts of ecosystem engineers on ecological and evolutionary dynamics during the Phanerozoic
+* :woman_technologist: I am currently an ```Schmidt AI in Science Fellow``` in the Department of Earth Sciences at the University of Oxford
+* 🌍 I am researching ecological and evolutionary survival strategies during mass extinctions and how AI can help us identify them
 * :dizzy: Passionate about conservation palaeobiology 
-* 💡 Currently learning new skills in spatial analyses, machine learning, and biogeochemical modeling
+* 💡 Currently learning new skills in reinforcement learning and AI
 * 💭 Dreaming of making fun educational palaeoecology video games
 * 🎓 Formerly University of Southern California ✌🏼🐴 / Vanderbilt University ⚓️⭐️
 * 🏃‍♀️ Probably gone running 🏃‍♀️
