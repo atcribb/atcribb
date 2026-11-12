@@ -10,8 +10,7 @@ Hi there, I'm Alison, a quantitative palaeoecologist!
 * :dizzy: Passionate about conservation palaeobiology 
 * 💡 Currently learning new skills in reinforcement learning and AI
 * 💭 Dreaming of making fun educational palaeoecology video games
-* 🎓 Formerly University of Southern California ✌🏼🐴 / Vanderbilt University ⚓️⭐️
-* 🏃‍♀️ Probably gone running 🏃‍♀️
+* 🎓 Learned stuff at University of Southern California ✌🏼🐴 / Vanderbilt University ⚓️⭐️
 * 👭 Let's collaborate!
 
 
